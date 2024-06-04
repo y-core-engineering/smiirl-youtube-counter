@@ -2,7 +2,7 @@
 
 ## Get started
 
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/y-core-engineering/smiirl-youtube-counter)
 
 Set YOUTUBE_CHANNEL_ID and YOUTUBE_API_KEY in .env or environment.
 

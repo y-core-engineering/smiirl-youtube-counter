@@ -1,0 +1,7 @@
+{
+  "name": "smiirl-youtube-counter",
+  "description": "Custom Smiirl Counter for YouTube",
+  "repository": "https://github.com/y-core-engineering/smiirl-youtube-counter",
+  "logo": "https://node-js-sample-1234567890ab.herokuapp.com/node.png",
+  "keywords": ["smiirl", "typescript", "youtube"]
+}
